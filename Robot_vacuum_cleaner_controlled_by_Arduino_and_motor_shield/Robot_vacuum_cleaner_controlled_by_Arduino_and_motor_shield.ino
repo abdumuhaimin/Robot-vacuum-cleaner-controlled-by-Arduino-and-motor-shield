@@ -13,6 +13,11 @@ Ultrasonic sonars can be connected to analog inputs (tested on LV-MaxSonar-EZ1):
    6. 5 sonars connected to pins 1,2,3,4,5:                      sonarPins[] = {1,2,3,4,5}
 Motor shield is used to run motors.
 */
+/**
+ * @author Abdu Muhaimin
+ * #R&Dforlife
+ * Sayang ash
+ */
 const int Baud = 9600; //UART port speed
 
 //Sonar properties
